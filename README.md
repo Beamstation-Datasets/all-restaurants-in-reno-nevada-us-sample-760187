@@ -1,6 +1,6 @@
 # All Restaurants in Reno, Nevada, US
 
-> Free BeamStation sample export with 112 rows and masked direct-contact fields.
+> Free BeamStation sample export with 103 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `760187` |
 | Location | Reno |
 | Category | Restaurants |
-| Full dataset size | 1,129 records |
-| Free sample size | 112 records (9.92%) |
-| Last export | 2026-04-07T11:49:59.685164+00:00 |
+| Full dataset size | 1,035 records |
+| Free sample size | 103 records (9.95%) |
+| Last export | 2026-04-14T11:43:56.951625+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-reno-nevada-us-sample-760187/releases/download/sample-latest/beamstation_760187_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
