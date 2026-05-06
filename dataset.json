@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Reno, Nevada with a population of over 264k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Reno, Nevada, US",
-  "export_job_id": "91e925cd-f571-459f-988b-d7aee3e8fee0",
+  "export_job_id": "f1aeda5b-0650-4a37-aeae-9686c0c39313",
   "github_org": "Beamstation-Datasets",
   "id_short": 760187,
   "location_name": "Reno",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-reno-nevada-us-sample-760187",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760187/beamstation_760187_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_pct": 9.95,
-  "sample_records": 110,
-  "sample_sha256": "32ba7d216a7659ea17e8c8daaba77c84e507e2ca6bd24b4d3ceef1c2cc04d977",
-  "sample_size_bytes": 389094,
-  "total_records": 1105,
-  "updated_at": "2026-04-28T13:02:14.611764+00:00"
+  "sample_records": 114,
+  "sample_sha256": "26e9ec1ffe0fdee3ec9b77b728e8e14d5fc9ce2d0ba689663b76f1e8bc15a9c8",
+  "sample_size_bytes": 414750,
+  "total_records": 1146,
+  "updated_at": "2026-05-05T23:14:06.411240+00:00"
 }
